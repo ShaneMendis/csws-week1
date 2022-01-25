@@ -1,5 +1,3 @@
-message = "Hello Python world!"
-print(message)
+a = 'python '
+print(a.rstrip())
 
-message = "Hello Python Crash Course world!"
-print(message)
